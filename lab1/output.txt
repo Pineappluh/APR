@@ -1,0 +1,64 @@
+2. zad
+Failed to solve with LU, division with 0 occurred.
+
+LUP result:
+3.000000
+1.000000
+-1.000000
+
+3. zad
+LU decomp:
+1.000000 2.000000 3.000000
+4.000000 -3.000000 -6.000000
+7.000000 2.000000 0.000000
+
+LUP decomp:
+7.000000 8.000000 9.000000
+0.142857 0.857143 1.714286
+0.571429 0.500000 0.000000
+
+Failed to solve with LU, division with 0 occurred.
+
+Failed to solve with LUP, division with 0 occurred.
+
+4. zad
+LU result:
+1.000240
+1.999318
+3.001024
+
+LUP result:
+1.000000
+2.000000
+3.000000
+
+5. zad
+Failed to solve with LU, division with 0 occurred.
+
+LUP result:
+-0.000000
+0.000000
+3.000000
+
+6. zad
+Failed to solve with LUP, division with 0 occurred.
+
+Epsilon was 10e-76, solution with smaller epsilon is:
+LUP result:
+1.000000
+2.000000
+1.000000
+
+7. zad
+Failed to calculate inverse, matrix is singular.
+
+8. zad
+-0.000000 -3.000000 -2.000000
+1.000000 -4.000000 -2.000000
+-3.000000 4.000000 1.000000
+
+9. zad
+1.0
+
+10. zad
+48.0
